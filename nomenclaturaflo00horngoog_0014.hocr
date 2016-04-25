@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nomenclaturaflo00horngoog_0014.png"; bbox 0 0 2520 4306; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 90 741 1011 928">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 68 741 1011 928">
+     <span class='ocr_line' id='line_1_1' title="bbox 90 741 1011 928; baseline -0.003 -47.07"><span class='ocrx_word' id='word_1_1' title='bbox 90 744 312 928; x_wconf 68' lang='lat' dir='ltr'>Rssol</span> <span class='ocrx_word' id='word_1_2' title='bbox 368 741 1011 906; x_wconf 69' lang='lat' dir='ltr'>SERENJsslMQ</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 50 1348 1083 1450">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 50 1348 1083 1450">
+     <span class='ocr_line' id='line_1_2' title="bbox 50 1348 1083 1450; baseline 0.005 -26"><span class='ocrx_word' id='word_1_3' title='bbox 50 1348 389 1424; x_wconf 80' lang='lat' dir='ltr'>{BERALISSIMO</span> <span class='ocrx_word' id='word_1_4' title='bbox 424 1349 576 1422; x_wconf 85' lang='lat' dir='ltr'>HUJUS</span> <span class='ocrx_word' id='word_1_5' title='bbox 615 1350 793 1422; x_wconf 85' lang='lat' dir='ltr'><strong>OPERIS</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 835 1349 1083 1450; x_wconf 80' lang='lat' dir='ltr'><strong>FAUTORI&#39;,</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 186 1847 903 1928">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 186 1847 903 1928">
+     <span class='ocr_line' id='line_1_3' title="bbox 186 1847 903 1928; baseline 0.001 -18"><span class='ocrx_word' id='word_1_7' title='bbox 186 1850 244 1910; x_wconf 87' lang='lat' dir='ltr'><strong>EA</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 275 1851 366 1928; x_wconf 84' lang='lat' dir='ltr'><strong>QUA</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 395 1851 480 1911; x_wconf 84' lang='lat' dir='ltr'><strong>PAR</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 509 1849 589 1909; x_wconf 80' lang='lat' dir='ltr'><strong>EST</strong></span> <span class='ocrx_word' id='word_1_11' title='bbox 620 1847 903 1911; x_wconf 74' lang='lat' dir='ltr'><strong>REVERENTIA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 1264 4306">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 1264 4306">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1264 4306; baseline 0 0"><span class='ocrx_word' id='word_1_12' title='bbox 0 0 1264 4306; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

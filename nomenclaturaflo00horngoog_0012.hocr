@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./nomenclaturaflo00horngoog_0012.png"; bbox 0 0 2520 4306; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 71 103 911 273">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 71 103 911 273">
+     <span class='ocr_line' id='line_1_1' title="bbox 71 103 911 273; baseline -0.004 -55"><span class='ocrx_word' id='word_1_1' title='bbox 71 266 74 273; x_wconf 7' lang='grc' dir='ltr'><strong><em>ι</em></strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 292 103 911 217; x_wconf 79' lang='lat' dir='ltr'><strong>NOMENGLATURA</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 16 482 1133 673">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 16 482 1133 673">
+     <span class='ocr_line' id='line_1_2' title="bbox 16 482 1133 673; baseline 0.016 -18"><span class='ocrx_word' id='word_1_3' title='bbox 16 482 529 664; x_wconf 71' lang='lat' dir='ltr'><strong>,FLORAE</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 607 482 1133 673; x_wconf 76' lang='lat' dir='ltr'><strong>DANIOAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 16 1204 1033 1588">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 16 1204 1033 1588">
+     <span class='ocr_line' id='line_1_3' title="bbox 16 1204 1033 1369; baseline 0.002 -2"><span class='ocrx_word' id='word_1_5' title='bbox 16 1204 20 1211; x_wconf 22' lang='grc' dir='ltr'>Ι</span> <span class='ocrx_word' id='word_1_6' title='bbox 149 1277 271 1367; x_wconf 86' lang='lat' dir='ltr'><strong>CUM</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 300 1271 485 1362; x_wconf 85' lang='lat' dir='ltr'>INDICE</span> <span class='ocrx_word' id='word_1_8' title='bbox 517 1274 928 1369; x_wconf 84' lang='lat' dir='ltr'><strong>SYSTEMATICO</strong></span> <span class='ocrx_word' id='word_1_9' title='bbox 951 1281 1033 1369; x_wconf 88' lang='lat' dir='ltr'><strong>ET</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 386 1496 805 1588; baseline 0.01 -6"><span class='ocrx_word' id='word_1_10' title='bbox 386 1496 805 1588; x_wconf 70' lang='lat' dir='ltr'><strong>ALPHABETICQ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 277 2466 899 2565">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 277 2466 899 2565">
+     <span class='ocr_line' id='line_1_5' title="bbox 277 2466 899 2565; baseline -0.005 -12"><span class='ocrx_word' id='word_1_11' title='bbox 277 2468 318 2553; x_wconf 83' lang='lat' dir='ltr'><strong>J.</strong></span> <span class='ocrx_word' id='word_1_12' title='bbox 365 2467 441 2559; x_wconf 81' lang='lat' dir='ltr'><strong>W.</strong></span> <span class='ocrx_word' id='word_1_13' title='bbox 481 2466 899 2565; x_wconf 83' lang='lat' dir='ltr'><em>HORNEMANN,</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 0 0 1264 4306">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 0 0 1264 4306">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1264 4306; baseline 0 0"><span class='ocrx_word' id='word_1_14' title='bbox 0 0 1264 4306; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
